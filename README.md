@@ -17,3 +17,5 @@
 #### 6、[箭头函数与普通函数的区别](https://github.com/pengbeirong/x-tips/issues/6)
 
 #### 7、[amtemu小工具破解Photoshop cc 2018](https://github.com/pengbeirong/x-tips/issues/7)
+
+#### 8、[使用rimraf工具包快速删除node_modules文件](https://github.com/pengbeirong/x-tips/issues/8)
