@@ -15,3 +15,5 @@
 #### 5、[重写Element UI的Message消息提示，使得每次只弹出一个](https://github.com/pengbeirong/x-tips/issues/5)
 
 #### 6、[箭头函数与普通函数的区别](https://github.com/pengbeirong/x-tips/issues/6)
+
+#### 7、[amtemu小工具破解Photoshop cc 2018](https://github.com/pengbeirong/x-tips/issues/7)
