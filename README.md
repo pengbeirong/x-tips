@@ -28,3 +28,9 @@
 
 #### 12、[Vue3 图片加载错误处理（显示默认图片）](https://github.com/pengbeirong/x-tips/issues/12)
 
+#### 13、[input输入框只能输入正整数和合法数字](https://github.com/pengbeirong/x-tips/issues/13)
+
+#### 14、[移动端<meta>标签禁止页面缩放功能失效的解决方法](https://github.com/pengbeirong/x-tips/issues/14)
+
+#### 15、[解决iOS解析 new Date 时间出错问题](https://github.com/pengbeirong/x-tips/issues/15)
+
