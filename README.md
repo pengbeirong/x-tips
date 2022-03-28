@@ -19,3 +19,12 @@
 #### 7、[amtemu小工具破解Photoshop cc 2018](https://github.com/pengbeirong/x-tips/issues/7)
 
 #### 8、[使用rimraf工具包快速删除node_modules文件](https://github.com/pengbeirong/x-tips/issues/8)
+
+#### 9、[caps lock键换成ctrl键](https://github.com/pengbeirong/x-tips/issues/9)
+
+#### 10、[CSS Reset 样式重置](https://github.com/pengbeirong/x-tips/issues/10)
+
+#### 11、[过滤JavaScript中Object的空白属性](https://github.com/pengbeirong/x-tips/issues/11)
+
+#### 12、[Vue3 图片加载错误处理（显示默认图片）](https://github.com/pengbeirong/x-tips/issues/12)
+
