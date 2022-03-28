@@ -64,6 +64,6 @@
 
 #### 30、[JavaScript 进阶问题列表（十五）](https://github.com/pengbeirong/x-tips/issues/30)
 
-#### 31、[JavaScript 进阶问题列表（十六）](https://github.com/pengbeirong/x-tips/issues/31)
+#### 31、[JavaScript 进阶问题列表（十六）完结篇](https://github.com/pengbeirong/x-tips/issues/31)
 
 
