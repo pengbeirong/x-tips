@@ -66,4 +66,6 @@
 
 #### 31、[JavaScript 进阶问题列表（十六）完结篇](https://github.com/pengbeirong/x-tips/issues/31)
 
+#### 32、[JavaScript 深拷贝与浅拷贝](https://github.com/pengbeirong/x-tips/issues/32)
+
 
